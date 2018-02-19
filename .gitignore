@@ -1,3 +1,14 @@
+#project’s file
+stdata/
+stdata1/
+getdata/
+old/
+test/
+test1/
+test2/
+test3/
+test4/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
